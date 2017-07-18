@@ -1,6 +1,8 @@
 Crtl+P => Go to file
 
-Ctrr+R => Go to symbol 
+Ctrl+R => Go to symbol 
+
+Ctrl+Shift+R => Go to symbol in project
 
 Crrl+O => Go to class
 
