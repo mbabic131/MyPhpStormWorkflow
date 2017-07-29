@@ -10,7 +10,7 @@ Ctrl+C => Copy line
 
 Ctrl+X => Cut line
 
-Crtl+N => New file
+Ctrl+N => New file
 
 Ctrl+E => Recent files
 
@@ -47,3 +47,7 @@ Ctrl+Ć => unsplit
 Ctrl+Up => Open navigation bar
 
 Shift+Shift => search everything and everyware
+
+Ctrl+M => generate php constructor
+
+Alt+B => PHP DocBlock
