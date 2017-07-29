@@ -1,0 +1,5 @@
+File Templates:
+  Settings->File and Code Templates => modify and create new file templates
+  
+Live Templates:
+  Settings->Live Templates => edit and create live templates
