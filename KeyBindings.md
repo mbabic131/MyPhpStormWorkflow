@@ -51,3 +51,7 @@ Shift+Shift => search everything and everyware
 Ctrl+M => generate php constructor
 
 Alt+B => PHP DocBlock
+
+Ctrl+W => close active tab
+
+Ctrl+Alt+W => close Project
