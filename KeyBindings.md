@@ -12,6 +12,8 @@ Ctrl+X => Cut line
 
 Crtl+N => New file
 
+Ctrl+E => Recent files
+
 Ctrl+T => Refactor
 
 Ctr+K+B (Alt+1) => Show/Hide File Explorer
