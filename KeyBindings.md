@@ -41,3 +41,7 @@ Ctrl+Č => Vertical split
 Crtl+H => Horizontal split
 
 Ctrl+Ć => unsplit
+
+Ctrl+Up => Open navigation bar
+
+Shift+Shift => search everything and everyware
