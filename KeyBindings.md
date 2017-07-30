@@ -55,3 +55,5 @@ Alt+B => PHP DocBlock
 Ctrl+W => close active tab
 
 Ctrl+Alt+W => close Project
+
+Ctrl+B => run php-cs-fixer on current file 
