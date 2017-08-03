@@ -48,6 +48,8 @@ Shift+Up (Shift+Down) => Select code
 
 Ctrl+N => New file
 
+Ctrl+Shift+O => Open folder (project)
+
 Ctr+K+B (Alt+1) => Show/Hide File Explorer
 
 # Live templates
