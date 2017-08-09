@@ -77,3 +77,6 @@ Ctrl+Alt+W => close Project
 Ctrl+B => run php-cs-fixer on current file
 
 Ctrl+Alt+K => Git Commit
+
+# View
+F11 => toggle full screen
