@@ -39,6 +39,10 @@ Ctrl+D => Multiple cursor (select next word)
 
 Ctrl+Alt+Shift+J => Multiple cursor (all occurrences)
 
+Alt+NumPad2 => clone caret down (Multiple cursor)
+
+Alt+NumPad8 => clone caret up (Multiple cursor)
+
 Ctrl+T => Refactor
 
 Shift+Up (Shift+Down) => Select code
