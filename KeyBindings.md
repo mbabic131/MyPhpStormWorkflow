@@ -20,6 +20,8 @@ Ctlr+, => Go to settigns
 
 Crtl+G => Go to line
 
+Alt+F12 => Open terminal
+
 
 # Edit code
 
