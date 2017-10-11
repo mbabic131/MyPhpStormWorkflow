@@ -22,6 +22,10 @@ Crtl+G => Go to line
 
 Alt+F12 => Open terminal
 
+Shift+G => Go to end of a file
+
+GG => Go to beggining of a file
+
 
 # Edit code
 
